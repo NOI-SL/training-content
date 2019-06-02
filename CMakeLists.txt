@@ -14,7 +14,7 @@ add_executable(sorting-merge-sort sorting/merge-sort.cpp)
 
 # Recursion
 add_executable(recursion-factorial recursion/factorial.cpp)
-add_executable(recursion-fibonacii recursion/fibonacii.cpp)
+add_executable(recursion-fibonacci recursion/fibonacci.cpp)
 
 # Graph Traversal
 add_executable(graph-traversal-bfs graph-traversal/bfs.cpp)
