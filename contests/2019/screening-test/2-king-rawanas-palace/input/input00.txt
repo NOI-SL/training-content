@@ -1,0 +1,4 @@
+3
+1 45 5 3 5 Fizz Buzz FizzBuzz Nil
+4 13 10 2 7 Ba Bi Be Bu
+49 23 5 5 10 Oong Greeng Kattu Eswah
