@@ -46,7 +46,7 @@ int main() {
 
             // Find All the paths starting from this node to the others & add them to the stack to be processed
             // Looping from n-1 to 0, because we want to visit the nodes with lowest values first
-            for (int i = n -1; i >= 0; i--) {
+            for (int i = n - 1; i >= 0; i--) {
                 if (paths[current][i]) {
                     stk.push(i);
                 }

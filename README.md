@@ -10,14 +10,14 @@ Following commands can be used for compiling & running each of these programs. A
 in the computer to run these solutions.
 
 ```bash
-g++ -std=c++11 -O2 -o <output_file_name> <source_file_name>
+g++ -std=c++14 -O2 -o <output_file_name> <source_file_name>
 ./<output_file_name>
 ```
 
 **Example**
 
 ```bash
-g++ -std=c++11 -O2 -o loop1 loop1.cpp
+g++ -std=c++14 -O2 -o loop1 loop1.cpp
 ./loop1
 ```
 
