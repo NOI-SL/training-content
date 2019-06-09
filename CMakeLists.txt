@@ -43,3 +43,14 @@ add_executable(numbers-numbers-everywhere-solution2 contests/2019/screening-test
 
 add_executable(a-mouse-in-a-maze-solution1 contests/2019/screening-test/6-a-mouse-in-a-maze/a-mouse-in-a-maze-solution1.cpp)
 add_executable(a-mouse-in-a-maze-solution2 contests/2019/screening-test/6-a-mouse-in-a-maze/a-mouse-in-a-maze-solution2.cpp)
+
+
+### Day 1
+add_executable(sorting-stones-solution1 contests/2019/day-1/1-sorting-stones/sorting-stones-solution1.cpp)
+add_executable(sorting-stones-solution2 contests/2019/day-1/1-sorting-stones/sorting-stones-solution2.cpp)
+
+add_executable(mouse-in-the-exploading-maze-solution1 contests/2019/day-1/2-mouse-in-the-exploding-maze/mouse-in-the-exploding-maze-solution1.cpp)
+add_executable(mouse-in-the-exploading-maze-solution2 contests/2019/day-1/2-mouse-in-the-exploding-maze/mouse-in-the-exploding-maze-solution2.cpp)
+
+add_executable(eat-your-peanuts-solution1 contests/2019/day-1/3-eat-your-peanuts/eat-your-peanuts-solution1.cpp)
+add_executable(eat-your-peanuts-solution2 contests/2019/day-1/3-eat-your-peanuts/eat-your-peanuts-solution2.cpp)
