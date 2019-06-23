@@ -22,3 +22,6 @@ add_executable(graph-traversal-dfs graph-traversal/dfs.cpp)
 
 # DAG
 add_executable(dag-max-sum dag/max-sum.cpp)
+
+# Numbers
+add_executable(p299ex4-prime numbers/prime-numbers/p299ex4-prime.cpp)
